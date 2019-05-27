@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyce
-Version: 1.0.0
+Version: 1.0.0-patch1
 Summary: Execute encrypted Python bytecode.
 Home-page: https://github.com/soroco/pyce
 Author: Soroco Americas Private Limited
