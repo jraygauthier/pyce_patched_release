@@ -40,4 +40,4 @@ from pyce._imports import PYCEPathFinder, PYCEFileLoader
 __all__ = ['encrypt_path', 'HMACFailureException', 'PYCEPathFinder']
 # Should have been `1.0.0-patch1`, however it cause trouble with
 # pypi2nix.
-__version__ = '1.0.0-patch1'
+__version__ = '1.0.0'
